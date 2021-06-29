@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\48883\\source\\repos\\Magazyn\\MagazynTests\\MagazynTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\48883\\source\\repos\\Magazyn\\MagazynTests\\MagazynTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\48883\\source\\repos\\Magazyn\\MagazynTests\\MagazynTests.csproj",
+        "projectName": "MagazynTests",
+        "projectPath": "C:\\Users\\48883\\source\\repos\\Magazyn\\MagazynTests\\MagazynTests.csproj",
+        "packagesPath": "C:\\Users\\48883\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\48883\\source\\repos\\Magazyn\\MagazynTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\48883\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\48883\\source\\repos\\Magazyn\\Magazyn\\Magazyn.csproj": {
+                "projectPath": "C:\\Users\\48883\\source\\repos\\Magazyn\\Magazyn\\Magazyn.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\48883\\source\\repos\\Magazyn\\Magazyn\\Magazyn.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\48883\\source\\repos\\Magazyn\\Magazyn\\Magazyn.csproj",
+        "projectName": "Magazyn",
+        "projectPath": "C:\\Users\\48883\\source\\repos\\Magazyn\\Magazyn\\Magazyn.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
